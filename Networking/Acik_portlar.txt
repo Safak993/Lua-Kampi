@@ -1,0 +1,3 @@
+İp: 127.0.0.1 Port: 80 Durum: Açık
+İp: 127.0.0.1 Port: 90 Durum: Açık
+İp: 127.0.0.1 Port: 20 Durum: Açık

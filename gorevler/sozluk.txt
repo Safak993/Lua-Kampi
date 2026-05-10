@@ -1,0 +1,5 @@
+SQLi:Veri tabani enjeksiyonu
+XSS:Script enjeksiyonu
+SQLi:Veri tabani enjeksiyonu
+XSS:Script enjeksiyonu
+w:q
