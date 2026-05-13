@@ -1,0 +1,14 @@
+{
+    "diagnostics.globals": [
+        "register_menu",
+        "TextWindow",
+        "MENU_TOOLS_UNSORTED",
+        "pinfo",
+        "tvb",
+        "Listener",
+        "Proto",
+        "ProtoField",
+        "report_failure",
+        "new_dialog"
+    ]
+}
